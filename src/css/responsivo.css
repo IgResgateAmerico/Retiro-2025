@@ -24,7 +24,35 @@
 }
 
 @media(max-width: 425px){
-    
+    .cabecalho .menu{
+        font-size: 10px;
+
+    }
+
+    .home .informacoes h1{
+        font-size: 30px;
+    }
+
+    .home .informacoes p{
+        font-size: 16px;
+    }
+
+    .home .container-projeto{
+        max-width: 320px;
+    }
+
+    .projetos{
+        padding: 30px;
+    }
+}
+
+
+@media(max-width: 410px){
+    .cabecalho .menu{
+        font-size: 10px;
+
+    }
+
     .home .informacoes h1{
         font-size: 30px;
     }
